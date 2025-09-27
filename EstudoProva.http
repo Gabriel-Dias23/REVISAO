@@ -1,0 +1,6 @@
+@EstudoProva_HostAddress = http://localhost:5064
+
+GET {{EstudoProva_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

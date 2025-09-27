@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace REVISAOPROVA1.Controllers
+namespace EstudoProva.Controllers
 {
     [ApiController]
     [Route("[controller]")]
